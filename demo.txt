@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This line is from master branch version 2
+=======
+This line is from feature branch version 2
+>>>>>>> feature
